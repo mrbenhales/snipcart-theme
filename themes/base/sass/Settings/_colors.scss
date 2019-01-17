@@ -14,11 +14,11 @@ $palettes: (
     button: (
         background: #555,
         background--highlight: #efe778,
-        background--hover: darken(#555, 10%),
+        background--hover: darken(#555, 90%),
         background--danger: #f10,
         background--danger-hover: darken(#f10, 10%),
         background--highlight-hover: darken(#efe778, 10%),
-        color: #fff,
+        color: #663322,
         color--highlight: #222,
     ),
     error: (
